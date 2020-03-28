@@ -3,4 +3,8 @@ Discord Applications in ThirstScript
 
 So, you want to learn how to make discord bots and other discord applications with Thirst Script, huh? Well it's not going to be easy. You're going to have to put the work in!
 
-BUT WILL THIS TEST WORK???
+What is a Discord Bot tho?
+~~~~~~~~~~~~~~~~~~~~
+Oh, dear. I slightly went in thinking you already knew what a Discord bot is. Well, no matter!
+
+**Discord Bots** are accounts not controlled by a human, designed to do a range of things! From server managment to games! Programs like Discord Bot Maker make it easy to make Discord Bots. However, it is not so powerful. So if you want to make a powerful Bot, I'd reccomend using **Python** or **Thirst**.
