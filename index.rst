@@ -11,3 +11,5 @@ Oh, dear. I slightly went in thinking you already knew what a Discord bot is. We
 
 Setting up the Bot
 ~~~~~~~~~~~~~~~~~~~~
+To set up a Discord Bot, go to the discord website.  Go to the "Developers Tab" and go down to "Developer Portal":
+
