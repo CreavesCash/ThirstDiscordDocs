@@ -17,7 +17,7 @@ To set up a Discord Bot, first create a server you want to put the bot in. It's 
 
 Then go to the top right and click "New Application". Name it, I'll call mine "ThirstTestBot". Then go to the sidebar and click "Bot".
 
-.. image:: /DiscordTh3.JPG
+.. image:: /DIscordTh3.JPG
 
 Now scroll down to "Bot Permissions" and give it what permissions you want. I'm just gonna give it Administrator, because that's easy. Now go back to the sidebar and click "Oauth2":
 
