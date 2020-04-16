@@ -33,3 +33,6 @@ Then scroll down and give it the same permissions as before. Then, under the Sco
 
 Then paste it into a new tab. Follow through the wizard. It will ask you what server you want it in, permissions, etc. Once it says you can close the tab, go back to your discord server for the bot and it will have miraculously transpired! Magic!
 
+So how do I make it come alive?
+===========================
+Woah there, pardner! But I like your enthusiasm! If you didn't say that, please ignore the preceding message.
